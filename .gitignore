@@ -1,3 +1,4 @@
 encoding_photo/
 testing_photo/
 .venv/
+.DS_Store
